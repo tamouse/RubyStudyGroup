@@ -94,6 +94,7 @@
 
 
 * TODOS
+** TODO Look at what the WWC Android and iOS study groups will be doing
 
 
 
@@ -105,5 +106,3 @@
 
    Responses were nearly nil, but someone asked if it could be Ruby
    instead, and that generated interest.
-
-** Look at what the WWC Android and iOS study groups will be doing
