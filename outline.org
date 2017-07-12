@@ -4,34 +4,22 @@
 ** Parameters
 
    - every other week (every week too much, once a month too far)
-   - start with Ruby
-   - plan a sequence of classes, starting with 6 weeks, "Introduction
-     to the Ruby Programming Language"
-   - lecture notes
-   - exercises
-   - live coding
-   - practice
+   - limit to 10 people /max/ who will commit to the full course
    - a small fee for the series to get some skin in the game (goes to
      WWCTC funds)
-
-
-
-** Lesson Zero
-
-   - installation, set up
-   - editors
-   - command line / powershell / etc
-   - git / GitHub
 
 * Syllabus
 
 ** Week 1
 
    - Installation
+   - Using Git
+   - Ruby command line
    - Bundler
    - Gems
    - Creating a project
    - Test Driven Development
+   - Rake
 
 *** Exercises
 
