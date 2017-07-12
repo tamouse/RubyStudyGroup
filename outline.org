@@ -1,0 +1,109 @@
+
+* Planning
+
+** Parameters
+
+   - every other week (every week too much, once a month too far)
+   - start with Ruby
+   - plan a sequence of classes, starting with 6 weeks, "Introduction
+     to the Ruby Programming Language"
+   - lecture notes
+   - exercises
+   - live coding
+   - practice
+   - a small fee for the series to get some skin in the game (goes to
+     WWCTC funds)
+
+
+
+** Lesson Zero
+
+   - installation, set up
+   - editors
+   - command line / powershell / etc
+   - git / GitHub
+
+* Syllabus
+
+** Week 1
+
+   - Installation
+   - Bundler
+   - Gems
+   - Creating a project
+   - Test Driven Development
+
+*** Exercises
+
+    - create a project as a gem
+    - review the files and folders
+    - edit the ~.gemspec~
+    - write the test that verifies the ~hello_world~ method
+    - write a ~hello_world~ method that takes an argument and returns
+      "hello, " and the contents of the argument.
+
+
+** Week 2
+
+   - Scalars
+   - Variables
+   - Constants
+
+   - Conditionals
+   - Iterations
+   - Methods
+   - Classes
+   - Modules
+
+*** Exercises
+
+    - create the exercise as a gem
+    - edit the ~.gemspec~
+    - write the tests /before/ each method
+
+**** Exercise 2.1 String Length
+
+    Given a string, count the number of characters in the string and
+    return that value.
+
+    - use a built-in method to calculate the number characters.
+    - stretch: write your own method to calculate the number of
+      characters.
+    - make sure your tests include strings with spaces, puncutation,
+      numbers, as well as letters.
+    - make sure you test edge cases and invalid input, such as an
+      empty string, a non-string, etc
+
+**** Exercise 2.2 MadLib
+
+     Create methods that:
+     - given a template, return the fillin words as an array
+     - given the same template and an array of substitute words,
+       return the filled in answer.
+
+     Make sure you test edge cases and bad data.
+
+
+
+** Week 3
+
+   - Organizing files
+   - Using standard library
+   - Using gems
+
+
+
+* TODOS
+
+
+
+* NOTES
+
+** straw poll at WWC hack night
+
+   Asked "Would anyone be interesed in a weekly study group on Rails?"
+
+   Responses were nearly nil, but someone asked if it could be Ruby
+   instead, and that generated interest.
+
+** Look at what the WWC Android and iOS study groups will be doing
