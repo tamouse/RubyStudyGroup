@@ -1,12 +1,4 @@
 
-* Planning
-
-** Parameters
-
-   - every other week (every week too much, once a month too far)
-   - limit to 10 people /max/ who will commit to the full course
-   - a small fee for the series to get some skin in the game (goes to
-     WWCTC funds)
 
 * Syllabus
 
@@ -78,19 +70,3 @@
    - Organizing files
    - Using standard library
    - Using gems
-
-
-
-* TODOS
-** TODO Look at what the WWC Android and iOS study groups will be doing
-
-
-
-* NOTES
-
-** straw poll at WWC hack night
-
-   Asked "Would anyone be interesed in a weekly study group on Rails?"
-
-   Responses were nearly nil, but someone asked if it could be Ruby
-   instead, and that generated interest.
