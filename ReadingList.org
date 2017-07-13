@@ -1,8 +1,9 @@
 #+STARTUP: content
 * Reading List
-** /The Well-Grounded Rubyist/
-** /Exercises for Programmers/
-** /Practical Object-Oriented Design in Ruby/
-** /99 Bottles/
-** /Eloquent Ruby/
-** /Confident Ruby/
+** Books
+*** /The Well-Grounded Rubyist/
+*** /Exercises for Programmers/
+*** /Practical Object-Oriented Design in Ruby/
+*** /99 Bottles/
+*** /Eloquent Ruby/
+*** /Confident Ruby/
