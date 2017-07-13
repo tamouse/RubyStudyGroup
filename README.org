@@ -8,16 +8,20 @@
     - limit to 10 people /max/ who will commit to the full course
     - a small fee for the series to get some skin in the game (goes to
       WWCTC funds)
-
+    - not a low-level introduction to programming course; this is a
+      course in learning to program in Ruby, and adopting the idioms,
+      practices, and ecosystem in the Ruby world
+    - this won't include Rails, it will just be focused on Ruby itself
+      (Rails can come later)
 
 ** TODOS
-** TODO Look at what the WWC Android and iOS study groups will be doing
+*** TODO Look at what the WWC Android and iOS study groups will be doing
 
 
 
 ** NOTES
 
-** straw poll at WWC hack night
+*** straw poll at WWC hack night
 
    Asked "Would anyone be interesed in a weekly study group on Rails?"
 

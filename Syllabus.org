@@ -1,41 +1,77 @@
-
-
+#+STARTUP: content
 * Syllabus
 
 ** Week 1
 
-   - Installation
-   - Using Git
-   - Ruby command line
-   - Bundler
-   - Gems
-   - Creating a project
-   - Test Driven Development
-   - Rake
+*** Objectives
+
+    Have a full, working Ruby development environment.
+
+    Understand the basics of creating, testing, and maintainging Ruby
+    software projects.
+
+*** Topics
+
+    - Installation
+    - Ruby command line
+    - Bundler
+    - Gems
+    - Rake
+    - Pry
+    - Creating a project
+    - Test Driven Development
+    - Using Git
 
 *** Exercises
 
+    - install the Ruby Version Manager, rvm
+    - install three essential gems: Pry, Bundler, and Rake
     - create a project as a gem
-    - review the files and folders
+    - review the structure of files and folders
     - edit the ~.gemspec~
-    - write the test that verifies the ~hello_world~ method
+      - specifying project-specific gems
+    - write the test that verifies the ~hello_world~ method below
     - write a ~hello_world~ method that takes an argument and returns
       "hello, " and the contents of the argument.
-
+    - explore what's happening inside with pry
+    - initializing git for your project
+    - commit versions of the test project
 
 ** Week 2
 
-   - Scalars
-   - Variables
-   - Constants
+*** Objectives
 
-   - Conditionals
-   - Iterations
-   - Methods
-   - Classes
-   - Modules
+    Understand data and algorithmic aspects of Ruby.
+
+    Understand ways to organize code.
+
+*** Topics
+
+**** Data
+
+    - Scalars
+      - Integers
+      - Floats
+      - Strings
+      - Booleans
+      - Symbols
+    - Variables
+    - Constants
+
+**** Algorithmic essentials
+
+    - Conditionals
+    - Iterations
+    - Methods
+
+**** Organizing code
+
+    - Classes
+    - Modules
 
 *** Exercises
+
+**** Common practices
 
     - create the exercise as a gem
     - edit the ~.gemspec~
@@ -63,10 +99,58 @@
 
      Make sure you test edge cases and bad data.
 
-
-
 ** Week 3
 
-   - Organizing files
-   - Using standard library
+*** Objectives
+
+    Learn how to organize more complex projects.
+
+    Learn the breadth of what comes with Ruby.
+
+    Explore the Enumerable core library package.
+
+*** Topics
+
+   - Organizing files in projects
+     - Separation of Concerns
+     - Don't Repeat Yourself
+     - SOLID
+
+   - Using the core and standard libraries
+     - explore the Enumerable package
+     - looping: filtering, mapping, reducing
    - Using gems
+
+*** Exercises
+
+**** Exercise 3.1
+
+     Organize classes for a 2-player card game.
+     - Game
+     - Player
+     - Deck
+     - Card
+
+** Week 4
+
+*** Objectives
+
+*** Topics
+
+*** Exercises
+
+** Week 5
+
+*** Objectives
+
+*** Topics
+
+*** Exercises
+
+** Week 6
+
+*** Objectives
+
+*** Topics
+
+*** Exercises
